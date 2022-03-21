@@ -14,7 +14,7 @@ They are created for running verse-by-verse audio features available in <a href=
 
 <b>Berean Interlinear Bible</b>
 
-<a href='bereanbible.com'>bereanbible.com</a> - Berean Study Bible
+<a href='https://bereanbible.com'>bereanbible.com</a> - Berean Study Bible
 
 (used with permission, as part of <a href="https://github.com/eliranwong/OpenHebrewBible">Open Hebrew Bible</a> and <a href="https://github.com/eliranwong/OpenGNT">Open Greek New Testament</a> projects)
 
