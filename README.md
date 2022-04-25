@@ -25,3 +25,7 @@ They are created for running verse-by-verse audio features available in <a href=
 # Integration into Unique Bible App
 
 Read https://github.com/eliranwong/UniqueBible/wiki/Verse-by-verse-MP3-Bible-audio
+
+# Online Demonstration
+
+https://bible.gospelchurch.uk/index.html?cmd=.audio
